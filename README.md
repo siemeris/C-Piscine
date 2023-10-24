@@ -14,7 +14,7 @@ A collection of links to the various projects I completed as a candidate during 
 ⚠️ If you are a 42 candidate, I strongly suggest not to copy my code. Instead, I encourage you to use it as a reference. ⚠️  
 ❗ Do not copy something that you don´t understand. ❗
 
-## Main Stats
+<!-- ## Main Stats
 
 <div align="center">
   <img src="https://img.shields.io/github/repo-size/siemeris/C-Piscine?color=green" />
@@ -22,7 +22,7 @@ A collection of links to the various projects I completed as a candidate during 
     <img src="https://badgen.net/badge/Born2Code/issierra/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
   <img src="https://img.shields.io/github/last-commit/siemeris/42Journey" />
-</div>
+</div> -->
 
 ### Completed 42Piscine Projects
 
@@ -40,11 +40,11 @@ A collection of links to the various projects I completed as a candidate during 
 | 8 | [C05](https://github.com/siemeris/C-Piscine/tree/main/C05) | C05 - Mathematical Concepts in C. <br><br>*This module is an introduction to C programming. In this module, you will have to implement small algorithms using recursive programming.* | C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | ex00: ft_iterative_factorial - Create a Program that Generates Iterative Factorials. <br>ex01: ft_recursive_factorial - Generate Recursive Factorials. <br>ex02: ft_iterative_power - Generate Iterative Powers. <br>ex03: ft_recursive_power - Generate Recursive Powers. <br>ex04: ft_fibonacci - Generate the Fibbonnacci Sequence. <br>ex05: ft_sqrt - Find the Square Root of a Given Number |
 | 9 | [C06](https://github.com/siemeris/C-Piscine/tree/main/C06) | C06 - Understanding Argc and Argv. <br><br>*This module is an introduction to C programming. In this module, you will learn how to use C's arguments in your programs, not just in your functions.* | C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | ex00: ft_print_program_name - Print the Name of a Program. <br>ex01: ft_print_params - Print Parameters of a Program. <br>ex02: ft_rev_params - Print Parameters of a Program in Reverse |
 |  | RUSH |  |  |  |
-| 10 | [Rush00](https://github.com/siemeris/C-Piscine/tree/main/rush00) | You must create a function that takes an x and y int argument and display on the screen a rectangle of x characters | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
-| 11 | [Rush01](https://github.com/siemeris/C-Piscine/tree/main/rush01) | *In this rush, you will face teamwork! It's an ideal moment to share what you know.* | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
-| 12 | [Rush02](https://github.com/siemeris/C-Piscine/tree/main/rush02) | *In this rush, you will face teamwork! It's an ideal moment to share what you know.* | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
+| 10 | [Rush00](https://github.com/siemeris/C-Piscine/tree/main/rush00) | You must create a function that takes an x and y int argument and display on the screen a rectangle of x characters | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | ft_putchar.c, main.c, rush00.c, rush01.c, rush02.c, rush03.c, rush04.c |
+| 11 | [Rush01](https://github.com/siemeris/C-Piscine/tree/main/rush01) | *In this rush, you will face teamwork! It's an ideal moment to share what you know.* | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | main.c, fix_values.c, get_table.c, var_values.c |
+| 12 | [Rush02](https://github.com/siemeris/C-Piscine/tree/main/rush02) | *In this rush, you will face teamwork! It's an ideal moment to share what you know.* | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | Makefile, find_number.c, main.c, numbers.dict |
 |  | BSQ |  |  | | 
-| 13 | [BSQ](https://github.com/siemeris/C-Piscine/tree/main/bsq) | BSQ : Biggest Square -> find the biggest empty square in a NxN grid | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 |
+| 13 | [BSQ](https://github.com/siemeris/C-Piscine/tree/main/bsq) | BSQ : Biggest Square -> find the biggest empty square in a NxN grid | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | Makefile, check_inputs.c, check_matrix.c, main.c, map |
 
 
 ## FAQ
